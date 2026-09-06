@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agent-epistemic-aleatoric-uncertainty-decomposer-skill",
+  "version": "1.0.0",
+  "description": "Decomposes total prediction uncertainty into epistemic vs aleatoric components via Shannon mutual information and ensemble variance.",
+  "author": "GenPark AI",
+  "license": "Apache-2.0",
+  "dependencies": [],
+  "keywords": [
+    "uncertainty-decomposition",
+    "epistemic-uncertainty",
+    "aleatoric-uncertainty",
+    "shannon-entropy",
+    "mutual-information"
+  ]
+}
